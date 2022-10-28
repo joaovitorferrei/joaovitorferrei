@@ -1,5 +1,5 @@
 - olá meu nome é João Vitor Ferreira 
-- idade 17 anos
+- minha idade 17 anos
 - sou um programador iniciante 
 - minha linguagem de programação é a linguagem c
 - pretendo apreder mais sobre outras linguagens principalmente python 
