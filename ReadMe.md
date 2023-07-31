@@ -24,3 +24,5 @@ olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de pr
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovitorferrei&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/joaovitorferrei/joaovitorferrei/blob/output/github-contribution-grid-snake.svg)
