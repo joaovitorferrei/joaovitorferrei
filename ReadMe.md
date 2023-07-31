@@ -18,9 +18,9 @@ olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de pr
 <!-- Estatiticas foi feito pelo GPRM (https://gprm.itsvg.in)-->
 
 # 🚀  Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorferrei&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=chartreuse-dark&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorferrei&theme=chartreuse-dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&theme=chartreuse-dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovitorferrei&icon=0&color=0)](https://visitcount.itsvg.in)
