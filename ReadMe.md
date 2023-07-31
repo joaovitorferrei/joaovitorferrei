@@ -1,4 +1,4 @@
-# descrição
+# Descrição
 olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de programação de jogos na <a href="https://goo.gl/maps/rwLpJBVZYNUxhKJy9" target="_blank">Unipac antonio carlos</a> tenho foco como carreira o Full-Stack Conhecimento principal linguagem de programação que tenho conhecimento e python estou estudando html css javascript quero aprender agora como foco aplicações web
 
 ## (⊙﹏⊙✿) Redes Sociais:
