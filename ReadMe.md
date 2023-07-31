@@ -1,8 +1,5 @@
 # descrição
-olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de programação de jogos na unipac tenho foco como carreira o Full-Stack <br>
-Conhecimento
-principal linguagem de programação que tenho conhecimento e python estou estudando html css javascript quero
-aprender agora como foco aplicações web
+olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de programação de jogos na <a href="https://goo.gl/maps/rwLpJBVZYNUxhKJy9">Unipac antonio carlos</a> tenho foco como carreira o Full-Stack Conhecimento principal linguagem de programação que tenho conhecimento e python estou estudando html css javascript quero aprender agora como foco aplicações web
 
 ## (⊙﹏⊙✿) Redes Sociais:
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-nascimento-82b152286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
@@ -18,12 +15,12 @@ aprender agora como foco aplicações web
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="linguagem c">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 </div>
+<!-- Estatiticas foi feito pelo GPRM (https://gprm.itsvg.in)-->
 
 # 🚀  Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorferrei&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovitorferrei&icon=0&color=0)](https://visitcount.itsvg.in)
-
