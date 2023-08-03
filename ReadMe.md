@@ -1,10 +1,6 @@
 # Descrição
 olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de programação de jogos na <a href="https://goo.gl/maps/rwLpJBVZYNUxhKJy9" target="_blank">Unipac antonio carlos</a> tenho foco como carreira o Full-Stack Conhecimento principal python estou estudando html css javascript quero aprender agora como foco aplicações web
 
-## (⊙﹏⊙✿) Redes Sociais:
-<a href = "mailto:joaovitorferreira24eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
 # 💻 Tecnologias:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
@@ -16,6 +12,11 @@ olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de pr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </div>
+
+## 📱 Redes Sociais:
+<a href = "mailto:joaovitorferreira24eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-nascimento-82b152286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/loki1106/760706327726784544" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <!-- Estatiticas foi feito pelo GPRM (https://gprm.itsvg.in)-->
 
 # 🚀  Estatísticas do GitHub:
