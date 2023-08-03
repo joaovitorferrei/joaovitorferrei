@@ -20,8 +20,7 @@ olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de pr
 <!-- Estatiticas foi feito pelo GPRM (https://gprm.itsvg.in)-->
 
 # 🚀  Estatísticas do GitHub:
-![joao vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=chartreuse-dark&show_icons=true)
-![status](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorferrei&theme=chartreuse-dark&hide_border=false)
+![joao vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorferrei&theme=chartreuse-dark&show_icons=truewidth)![status](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorferrei&theme=chartreuse-dark&hide_border=false)
 
 
 ---
