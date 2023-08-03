@@ -2,7 +2,7 @@
 olá meu nome é João Vitor Nascimento tenho 18 anos de idade fasso curso de programação de jogos na <a href="https://goo.gl/maps/rwLpJBVZYNUxhKJy9" target="_blank">Unipac antonio carlos</a> tenho foco como carreira o Full-Stack Conhecimento principal python estou estudando html css javascript quero aprender agora como foco aplicações web
 
 ## (⊙﹏⊙✿) Redes Sociais:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">](https://www.linkedin.com/in/jo%C3%A3o-vitor-nascimento-82b152286) 
+<a href = "mailto:joaovitorferreira24eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 # 💻 Tecnologias:
