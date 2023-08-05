@@ -10,7 +10,7 @@ Hello! My name is João Vitor Nascimento, I am 18 years old, and I am taking a g
 </h1>
 <div align="center">
     <a href="https://github.com/wendellast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&layout=compact&langs_count=7&theme=blue-green"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&layout=compact&langs_count=7&theme=blue-green&hide=GDScript"/></a>
 <div>
 
 # 💻 Tech Stack:
