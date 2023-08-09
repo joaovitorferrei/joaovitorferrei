@@ -2,8 +2,11 @@
 Hello! My name is João Vitor Nascimento, I am 18 years old, and I am taking a game programming course at <a href="https://goo.gl/maps/rwLpJBVZYNUxhKJy9" target="_blank">Unipac Antônio Carlos</a>. My career focus is Full-Stack development, with Python and C as my main areas of expertise. Currently, I am studying HTML, CSS, JavaScript, MySQL, and Django. My goal is to learn more about web applications development.
 <h1>
     certificates: <br>
-    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-113f9221-e703-43e4-ad71-5d7333479eb6.pdf">Udemy</a>
+    <div>
 </h1>
+<div>
+    <a href = "https://udemy-certificate.s3.amazonaws.com/pdf/UC-113f9221-e703-43e4-ad71-5d7333479eb6.pdf"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
+</div>
 <h1 align="center">
   【Ｈｅｌｌｏ Ｗｏｒｌｄ】
 </h1>
