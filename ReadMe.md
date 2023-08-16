@@ -1,11 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=【Ｈｅｌｌｏ+Ｗｏｒｌｄ】;HELLO,+MY+NAME+is+João+Vitor+Nascimento;I'm+18+years+old;I+from+Brasil,+Mg;I+take+a+game+programming+course+at+unipac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitorferrei&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor Nascimento stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=gdscript" />
-</div>
 
 <div align="center">  
 <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-nascimento-82b152286"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=Linkedin&labelColor=0D1117"></a>
