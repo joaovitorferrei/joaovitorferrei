@@ -1,5 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=【Ｈｅｌｌｏ+Ｗｏｒｌｄ】;%0AHello%2C+my+name+is+Jo%C3%A3o+Vitor%3B+I+am+18+years+old+and+a+student+of+Programming%3B+I+am+taking+a+course+in+Programming+of+games+at+Unipac%3B+I+am+from+Brazil%2C+MG%3B+%F0%9F%8E%89+Welcome+%F0%9F%8E%89)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitorferrei&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor Nascimento github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorferrei&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=gdscript" />
+</div>
+
+![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 
 
 <div align="center">  
