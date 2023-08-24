@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Jo%C3%A3o+Vitor;%0AI'm+18+years+old+and+a+student+of+Programming;%0AI'm+taking+a+course+in+Programming+of+games+at+Unipac;%0AI'm+from+Brazil%2C+MG;%0A🎉+Welcome+🎉)](https://git.io/typing-svg)
-
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Jo%C3%A3o+Vitor;%0AI'm+18+years+old+and+a+student+of+Programming;%0AI'm+taking+a+course+in+Programming+of+games+at+Unipac;%0AI'm+from+Brazil%2C+MG;%0A🎉+Welcome+🎉)](https://git.io/typing-svg)
 
 
 <div align="center">  
