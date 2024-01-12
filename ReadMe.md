@@ -7,7 +7,7 @@
 
 <div align="center">  
 <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-nascimento-82b152286"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=Linkedin&labelColor=0D1117"></a>
-<a href="mailto:joaovitorferreira24eu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117"></a>
+<a href="mailto:joaovitornascimento.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117"></a>
 </div>
   
 
